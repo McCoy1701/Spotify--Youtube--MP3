@@ -15,7 +15,7 @@ def main():
     playlists, tracks = findPlaylists('mccoy_1701')
     
     songs = findSongs(playlists, tracks, trackNumber=0)
-    saveFileJson(songs, "songs.json")
+    saveFileJson(songs, "songs.txt")
 
 
 def findSongs(list, tracks, trackNumber) -> list:

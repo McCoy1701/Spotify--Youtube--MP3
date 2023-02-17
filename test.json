@@ -1,0 +1,172 @@
+[
+    {
+        "kind": "youtube#searchResult",
+        "etag": "9zOTiH3ynrFm4RxOmejDCv30cGY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "ckCilUSFmHk"
+        },
+        "snippet": {
+            "publishedAt": "2018-11-22T17:03:59Z",
+            "channelId": "UCNYJOAz1J80HEJy2HSM772Q",
+            "title": "Coop - Go Go",
+            "description": "'Go Go' is out now on Nice Guys: http://smarturl.it/coopgogo Follow Coop: Instagram: https://www.instagram.com/reuben.brady/ ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ckCilUSFmHk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ckCilUSFmHk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ckCilUSFmHk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "David Dean Burkhart",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-11-22T17:03:59Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Wloh8wQOddEojIRGmOVj3FiLadU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "SoopePU0pwM"
+        },
+        "snippet": {
+            "publishedAt": "2018-11-22T08:42:25Z",
+            "channelId": "UCMmt12UKW571UWtJAgWkWqg",
+            "title": "Coop - Go Go [NG019]",
+            "description": "Hi folks ! Can't be more excited today ! Today we are really glad to release \"Go go\" from the solo project of Reuben Brady called ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SoopePU0pwM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SoopePU0pwM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SoopePU0pwM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Nice Guys",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-11-22T08:42:25Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "vmW-LVgTgMlcyPrrCZOFoopIeD0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "0Qj1EgbP2qM"
+        },
+        "snippet": {
+            "publishedAt": "2018-11-18T10:16:50Z",
+            "channelId": "UCvstq-uoPVuyo56AtRxl1rg",
+            "title": "Go Go",
+            "description": "Provided to YouTube by Nice Guys Go Go \u00b7 Coop \u00b7 Coop \u00b7 Coop Go Go \u2117 Nice Guys / \u30cb\u30fc\u30b9 \u30ac\u30a4\u30ba Released on: 2018-11-19 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0Qj1EgbP2qM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0Qj1EgbP2qM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0Qj1EgbP2qM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Coop - Topic",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-11-18T10:16:50Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "sSwLCDcijMUJTPDK1ZOLtk1g4zI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "d0QvcohKGlM"
+        },
+        "snippet": {
+            "publishedAt": "2019-07-09T14:17:12Z",
+            "channelId": "UCrlNi8Z5TXfWJf4psK76KWw",
+            "title": "coop - Go Go",
+            "description": "Stream 'Go Go' of coop, extracted from the Nice Guys Compilation Vol.1. Limited Edition Cassette \u261e http://bit.ly/NGcompilation ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d0QvcohKGlM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d0QvcohKGlM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d0QvcohKGlM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "D\u00e9licieuse Musique",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-07-09T14:17:12Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "WmpnP2bwzkw6oiY_51VlXFgSkNo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "7KMpuoSB8HA"
+        },
+        "snippet": {
+            "publishedAt": "2019-02-26T15:00:00Z",
+            "channelId": "UCAy4_9g22xCsEJBYkpq9jow",
+            "title": "&quot;I Gotta Go&quot; 10:13PM - 9:14AM ft. John Mulaney &amp; Taran Killam | Documentary Now!",
+            "description": "Patty has a prior engagement. Catch Documentary Now! Wednesdays at 11pm on IFC! Hosted by Helen Mirren and featuring ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7KMpuoSB8HA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7KMpuoSB8HA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7KMpuoSB8HA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "IFC",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-02-26T15:00:00Z"
+        }
+    }
+]
